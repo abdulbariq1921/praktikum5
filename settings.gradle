@@ -1,0 +1,2 @@
+rootProject.name='BerMaps'
+include ':app'
